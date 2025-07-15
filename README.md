@@ -18,8 +18,10 @@
 </div>
 
 <br />
-Propósito
-En Guardianes Seguros, Nuestro propósito es proteger la integridad física, patrimonial y emocional de las personas, empresas y comunidades, ofreciendo soluciones integrales de seguridad privada con profesionalismo, ética y compromiso. Nos guiamos por la firme convicción de generar confianza, tranquilidad y respaldo a nuestros clientes, mediante servicios preventivos y correctivos de alta calidad, tecnología avanzada y personal capacitado.
+<h2 style="color: black; font-weight: bold;">Propósito</h2>
+
+<p>En <strong>Guardianes Seguros</strong>, nuestro propósito es <em>proteger la integridad física, patrimonial y emocional</em> de las personas, empresas y comunidades, ofreciendo soluciones integrales de seguridad privada con profesionalismo, ética y compromiso.</p>
+
 
 Características principales 
 I.-Diseño responsivo (responsive design)
@@ -130,9 +132,12 @@ guardianes-seguros/
 └── favicon.ico                ← Ícono de pestaña
 
 
-Requisitos previos
 
-Antes de comenzar, asegúrese de cumplir con los siguientes requisitos:
+
+### Run Locally
+
+To run **Guardianes Seguros** locally, run this command on your git bash:
+
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
