@@ -11,7 +11,7 @@
 
   <h2 align="center">Agencia de Seguridad Privada-Guardianes Seguros</h2>
 
-  Guardianes Seguros is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+ Guardianes Seguros es un sitio web totalmente adaptable para una agencia de seguridad privada, <br />Responsive for all devices, build using HTML, CSS, JavaScript, Boostrap, GitHub.
 
   <a href="https://github.com/brenda19011/Desarrollador.github.io.git/">![Guardianes SegurosDesktop Demo](./readme-images/1.png "Desktop Demo")
 
