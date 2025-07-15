@@ -13,13 +13,13 @@
 
   Guardianes Seguros is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/brenda19011/Desarrollador.github.io.git/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/brenda19011/Desarrollador.github.io.git/">![Guardianes SegurosDesktop Demo](./readme-images/1.png "Desktop Demo")
 
 </div>
 
 <br />
 Propósito
-En Guardianes Seguros, nuestro propósito es proteger la integridad física, patrimonial y emocional de las personas, empresas y comunidades, ofreciendo soluciones integrales de seguridad privada con profesionalismo, ética y compromiso. Nos guiamos por la firme convicción de generar confianza, tranquilidad y respaldo a nuestros clientes, mediante servicios preventivos y correctivos de alta calidad, tecnología avanzada y personal capacitado.
+En Guardianes Seguros, Nuestro propósito es proteger la integridad física, patrimonial y emocional de las personas, empresas y comunidades, ofreciendo soluciones integrales de seguridad privada con profesionalismo, ética y compromiso. Nos guiamos por la firme convicción de generar confianza, tranquilidad y respaldo a nuestros clientes, mediante servicios preventivos y correctivos de alta calidad, tecnología avanzada y personal capacitado.
 
 Características principales 
 I.-Diseño responsivo (responsive design)
@@ -87,9 +87,9 @@ VI.-Canva
 Para diseño gráfico o prototipos UI previos.
 
 
-### Demo Screeshots
+### Demo Screesho
 
-![Guardianes SegurosDesktop Demo](./readme-images/1.png "Desktop Demo")
+
 
 Estructura del proyecto
 guardianes-seguros/
