@@ -20,7 +20,7 @@
 <br />
 <h2 style="color: black; font-weight: bold;">Propósito</h2>
 
-<p>En <strong>Guardianes Seguros</strong>, nuestro propósito es <em>proteger la integridad física, patrimonial y emocional</em> de las personas, empresas y comunidades, ofreciendo soluciones integrales de seguridad privada con profesionalismo, ética y compromiso.</p>
+<p>En <strong>Guardianes Seguros</strong>, nuestro propósito es <em>proteger la integridad física, patrimonial y emocional</em> de las personas, empresas y comunidades, ofreciendo soluciones integrales de seguridad privada con profesionalismo, ética y compromiso.Nos guiamos por la firme convicción de generar confianza, tranquilidad y respaldo a nuestros clientes, mediante servicios preventivos y correctivos de alta calidad, tecnología avanzada y personal capacitado.</p>
 
 <h2 style="color: black; font-weight: bold;">Características principales </h2>
 <h2 style="color: black; font-weight: bold;">I.-Diseño responsivo (responsive design) </h2>
