@@ -22,62 +22,59 @@
 
 <p>En <strong>Guardianes Seguros</strong>, nuestro propósito es <em>proteger la integridad física, patrimonial y emocional</em> de las personas, empresas y comunidades, ofreciendo soluciones integrales de seguridad privada con profesionalismo, ética y compromiso.</p>
 
-
-Características principales 
-I.-Diseño responsivo (responsive design)
+<h2 style="color: black; font-weight: bold;">Características principales </h2>
+<h2 style="color: black; font-weight: bold;">I.-Diseño responsivo (responsive design) </h2>
 Adaptable a todos los dispositivos (móviles, tabletas, computadoras).
 Layout flexible con media queries.
 Uso de sistemas de rejilla (grid/flexbox) para orden visual eficiente.
 
-II.-Optimización SEO (Search Engine Optimization)
+<h2 style="color: black; font-weight: bold;">II.-Optimización SEO (Search Engine Optimization) </h2>
 Uso correcto de etiquetas HTML semánticas (<header>, <section>, <article>, <footer>).
 Metaetiquetas optimizadas (<meta name="description">, <meta name="keywords">, <title>).
 Contenido estructurado para indexación efectiva en motores de búsqueda.
 Carga rápida y reducción de recursos innecesarios (minificación de CSS/JS).
 
-III.-URLs amigables (Friendly URLs)
+<h2 style="color: black; font-weight: bold;">III.-URLs amigables (Friendly URLs) </h2>
 Rutas limpias y legibles para el usuario y motores de búsqueda (ej: /servicios, /nosotros, /contacto).
 Sin caracteres especiales, parámetros largos ni extensiones innecesarias.
 
-IV.-Estilos UI/UX modernos
+<h2 style="color: black; font-weight: bold;">IV.-Estilos UI/UX modernos</h2>
 Paleta de colores institucional (ej. negro, dorado, blanco).
 Tipografía clara, profesional y accesible.
 Botones llamativos y bien posicionados con efectos de hover.
 Uso de iconografía y animaciones suaves para mejorar la experiencia de navegación.
 Jerarquía visual con subtítulos, bloques de contenido y tarjetas informativas.
 
-V.-Componentes reutilizables (UI reutilizable)
+<h2 style="color: black; font-weight: bold;">V.-Componentes reutilizables (UI reutilizable)</h2>
 Menús, botones, formularios y tarjetas modulares reutilizables.
 Estilos centralizados con variables CSS (por ejemplo: --gold-crayola, --weight-bold).
 Separación clara entre estructura HTML, estilos CSS y comportamiento JS.
 
-VI.-Accesibilidad (A11Y)
+<h2 style="color: black; font-weight: bold;">VI.-Accesibilidad (A11Y)</h2>
 Texto con suficiente contraste de color.
 Navegación por teclado y lectores de pantalla.
 Atributos alt en imágenes y roles en componentes interactivos.
 
-VII.-Integración con herramientas externas
+<h2 style="color: black; font-weight: bold;">VII.-Integración con herramientas externas</h2>
 Botón de contacto vía WhatsApp.
 Mapa de ubicación integrado (Google Maps o similar).
 Formularios de contacto funcionales con validación.
 
-VIII.-Seguridad y confianza
+<h2 style="color: black; font-weight: bold;">VIII.-Seguridad y confianza</h2>
 licencia
 Políticas de privacidad y términos de uso visibles.
 Pie de página con enlaces legales y redes sociales.
 
-Tecnologías Utilizadas
+<h2 style="color: black; font-weight: bold;">Tecnologías Utilizadas</h2>
 I.-HTML
 Estructura semántica del sitio
 II.-CSS 
 Estilización avanzada, diseño responsivo con media queries, animaciones y variables.
 III.-JavaScript
 Interactividad del sitio: sliders, menús desplegables, validaciones de formularios, etc.
-
 IV.-Frameworks y bibliotecas opcionales
 Bootstrap o CSS: para UI rápida, responsiva y consistente.
 Swiper.js: para carruseles de imágenes o testimonios.
-
 V.-Versionamiento y despliegue
 Git + GitHub
 Control de versiones y colaboración en equipo.
