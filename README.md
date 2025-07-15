@@ -66,23 +66,23 @@ Políticas de privacidad y términos de uso visibles.
 Pie de página con enlaces legales y redes sociales.
 
 <h2 style="color: black; font-weight: bold;">Tecnologías Utilizadas</h2>
-I.-HTML
+-HTML
 Estructura semántica del sitio
-II.-CSS 
+-CSS 
 Estilización avanzada, diseño responsivo con media queries, animaciones y variables.
-III.-JavaScript
+-JavaScript
 Interactividad del sitio: sliders, menús desplegables, validaciones de formularios, etc.
-IV.-Frameworks y bibliotecas opcionales
+-Frameworks y bibliotecas opcionales
 Bootstrap o CSS: para UI rápida, responsiva y consistente.
 Swiper.js: para carruseles de imágenes o testimonios.
-V.-Versionamiento y despliegue
+-Versionamiento y despliegue
 Git + GitHub
 Control de versiones y colaboración en equipo.
 
 Hosting personalizado
 Para subir archivos al servidor.
 
-VI.-Canva 
+-Canva 
 Para diseño gráfico o prototipos UI previos.
 
 
