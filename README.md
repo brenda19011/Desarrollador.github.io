@@ -87,7 +87,7 @@ VI.-Canva
 Para diseño gráfico o prototipos UI previos.
 
 
-### Demo Screesho
+
 
 
 
@@ -130,9 +130,9 @@ guardianes-seguros/
 └── favicon.ico                ← Ícono de pestaña
 
 
-### Prerequisites
+Requisitos previos
 
-Before you begin, ensure you have met the following requirements:
+Antes de comenzar, asegúrese de cumplir con los siguientes requisitos:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
